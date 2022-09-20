@@ -6,7 +6,6 @@
 ## Web Development and Blender Enthusiast
 
 - ✉️  You can contact me at [tarungudipalli5@gmail.com](mailto:tarungudipalli5@gmail.com)
-- 🧠  I'm currently learning **Astro**
 - 💬 Ask me about **JavaScript, React, MERN**
 
 ### Skills
