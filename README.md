@@ -7,6 +7,7 @@
 
 - ✉️  You can contact me at [tarungudipalli5@gmail.com](mailto:tarungudipalli5@gmail.com)
 - 💬 Ask me about **JavaScript, React, MERN**
+- 👨‍💻 All of my projects are available at [https://tarungudipalli.vercel.app/](https://tarungudipalli.vercel.app/)
 
 ### Skills
 
