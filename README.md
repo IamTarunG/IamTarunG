@@ -7,7 +7,7 @@
 
 - ✉️  You can contact me at [tarungudipalli5@gmail.com](mailto:tarungudipalli5@gmail.com)
 - 💬 Ask me about **JavaScript, React, MERN**
-- 👨‍💻 All of my projects are available at [https://tarungudipalli.vercel.app/mywork](https://tarungudipalli.vercel.app/mywork)
+- 👨‍💻 Read my blogs on [Medium](https://medium.com/@tarungudipalli)
 
 ### Skills
 
@@ -41,8 +41,6 @@
 <a href="http://www.github.com/IamTarunG"><img src="https://github-readme-stats.vercel.app/api?username=IamTarunG&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="IamTarunG's GitHub stats" /></a>
 
 <a href="http://www.github.com/IamTarunG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IamTarunG&stroke=ffffff&background=27272a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/IamTarunG"><img src="https://activity-graph.herokuapp.com/graph?username=IamTarunG&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/IamTarunG" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamTarunG&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
