@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtarung&label=Profile%20views&color=0e75b6&style=flat" alt="iamtarung" /> </p>
 
-## Web Development and Blender Enthusiast
+## Web Developer and Blender Enthusiast
 
 - ✉️  You can contact me at [tarungudipalli5@gmail.com](mailto:tarungudipalli5@gmail.com)
 - 💬 Ask me about **JavaScript, React, MERN**
