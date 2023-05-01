@@ -7,7 +7,6 @@
 
 - ✉️  You can contact me at [tarungudipalli5@gmail.com](mailto:tarungudipalli5@gmail.com)
 - 💬 Ask me about **JavaScript, React, MERN**
-- 👨‍💻 Read my blogs on [Medium](https://medium.com/@tarungudipalli)
 
 ### Skills
 
